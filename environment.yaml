@@ -1,0 +1,12 @@
+name: phd
+dependencies: 
+- python
+- pip
+- pyyaml
+- numpy
+- matplotlib
+- pillow
+- ipywidgets
+- tk
+- pip: 
+    - opencv-python
